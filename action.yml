@@ -1,6 +1,6 @@
-name: Google Places Dataset - FlashData
-description: Export local-business search records for a location-aware research
-  or data-quality workflow.
+name: Google Places Search
+description: Search Google Places and export business names, addresses, ratings
+  and available contact details as JSON and JSONL.
 author: FlashData
 branding:
   icon: search

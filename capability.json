@@ -40,5 +40,5 @@
     }
   },
   "repository": "flashdata-google-places-action",
-  "action_name": "Google Places Dataset - FlashData"
+  "action_name": "Google Places Search"
 }
